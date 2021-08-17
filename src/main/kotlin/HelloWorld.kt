@@ -3,5 +3,5 @@ fun main(){
     println("Hello World!")
 
     print("Hello ")
-    print("Muflikhan")
+    print("Muflikhan Dimas")
 }
